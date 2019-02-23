@@ -13,7 +13,7 @@ To run the program:
 2. npm install
 ```
 ```
-3. cd ../../
+3. cd ../
 ```
 ```
 4. dotnet run
